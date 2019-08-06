@@ -34,6 +34,7 @@ prompt_context() {
 * PyCharm
 * Visual Studio Code
 * Docker (+ Kitematic)
+* VirtualBox (to run 
 * BetterToutchTool (maybe)
 * Alfred 4 (maybe)
 
