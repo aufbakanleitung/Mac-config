@@ -7,6 +7,12 @@ https://coderwall.com/p/dapstw/keybindings-for-macosx-users-on-iterm2
 https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7
 Set keybinding to "natural text editing" (Preferences > Profiles > Keys > Load presents)
 
+## Firefox plugins
+* AdBlock
+* Google Search Keyboard Shortcuts
+* Reddit Enhancements Suite
+
+
 ## .zshrc
 ```
 alias zshconfig="vim ~/.zshrc"
@@ -19,14 +25,15 @@ prompt_context() {
 ```
 
 ## Apps:
-*Spectacle
-*Paintbrush
-*Unified remote
-*Numi
-*Postman
-*Draw.io.app
-*PyCharm
-*Visual Studio Code
-*Docker (+ Kitematic)
-*BetterToutchTool (maybe)
-*Alfred 4 (maybe)
+* Spectacle
+* Paintbrush
+* Unified remote
+* Numi
+* Postman
+* Draw.io.app
+* PyCharm
+* Visual Studio Code
+* Docker (+ Kitematic)
+* BetterToutchTool (maybe)
+* Alfred 4 (maybe)
+
