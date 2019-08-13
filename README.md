@@ -1,3 +1,5 @@
+![Apple dev](https://i2.wp.com/unitycoder.com/blog/wp-content/uploads/2016/11/logo-apple-developer-2x.png)
+
 # Mac-config
 Summary of configuration and apps to make my MacBook into a developer machine
 
