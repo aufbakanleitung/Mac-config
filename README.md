@@ -28,8 +28,10 @@ prompt_context() {
 * Spectacle
 * Paintbrush
 * Unified remote
+* Dropbox
 * Numi
 * Postman
+* f.lux
 * Draw.io.app
 * PyCharm
 * Visual Studio Code
@@ -37,3 +39,8 @@ prompt_context() {
 * VirtualBox (to run 
 * BetterToutchTool (maybe)
 * Alfred 4 (maybe)
+
+## Python packages
+* Jupyter
+* Floweaver
+
