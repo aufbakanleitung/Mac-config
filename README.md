@@ -41,8 +41,8 @@ prompt_context() {
 * VirtualBox (to run 
 * BetterToutchTool (maybe)
 * Alfred 4 (maybe)
-`brew cask install aerial`
-http://osxdaily.com/2014/07/10/set-screen-saver-keyboard-shortcut-mac/
+
+`brew cask install aerial` - http://osxdaily.com/2014/07/10/set-screen-saver-keyboard-shortcut-mac/
 
 ## Python packages
 * Jupyter
