@@ -27,6 +27,8 @@ prompt_context() {
 ```
 
 ## Apps:
+* Forticlient
+* Amphetamine 
 * Spectacle
 * Paintbrush
 * Unified remote
